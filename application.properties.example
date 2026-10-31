@@ -1,0 +1,6 @@
+# Copiar como application.properties y completar.
+# Session pooler de Supabase (IPv4):
+
+db.url=jdbc:postgresql://HOST:5432/postgres?sslmode=require
+db.user=postgres.TU_PROYECTO
+db.password=CAMBIAR
